@@ -1,0 +1,7 @@
+.git
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+model/
+dataset/
+spectrogram/
