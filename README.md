@@ -1,0 +1,4 @@
+## Split-Up (Music Source Seperation - Part)
+
+This repo is a part of project split-up (automatic music transcription for Sri Lankan light songs). This project concerned two major research areas, those are music source separation(MSS) and automatic music transcription(AMT). Music source separation focuses on the separation of the target source (stem) in a musical mixture. The primary objective in MSS is separating harmonic musical instrument stems in a polyphonic mixture(song).
+Using a music source separation algorithm we can extract a target source (stem) which is an input for our next main objective called automatic music transcription (AMT). For MSS we chose CNN based algorithm (Unet) which is ideal for medical image processing and one of the states of the art algorithm for vocal separation while AMT part primarily based on a digital signal processing algorithm (PYin)
